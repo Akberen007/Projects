@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "diceLauchScreen.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
